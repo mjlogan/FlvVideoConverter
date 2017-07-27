@@ -1,0 +1,2 @@
+*Project Description*
+This is a video converter component created to call the ffmpeg tool to convert various video formats to the Adobe Flash FLV output format. The component also takes care of server resources usage, by lowering the priority of the process, so the machine can perform as other tasks as possible.
